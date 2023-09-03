@@ -1,3 +1,6 @@
+// CVE Reverse Tool
+// Author: Sina Tashakkori, QVLx Labs
+
 use quick_xml::Reader;
 use quick_xml::events::Event;
 use std::fs::File;
